@@ -10,6 +10,7 @@ it fact(int n)
 
 }
 // this is function main
+//github edit
 int main()
 {
     //get n
