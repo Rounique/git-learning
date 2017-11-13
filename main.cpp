@@ -13,6 +13,7 @@ it fact(int n)
 int main()
 {
     //get n
+
     it n; cin>>n;
     cout<< fact(n);
     return 0;
