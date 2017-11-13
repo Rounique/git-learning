@@ -1,13 +1,17 @@
 #include <iostream>
 usingn namespace std;
-int main()
+it fact(int n)
 {
-    it n; cin>>n;
     int ans=1;
     for (int i = 1; i < =n; ++i)
     {
         ans *= i;
     }
-    cout<<ans;
+    return ans;
+}
+int main()
+{
+    it n; cin>>n;
+    cout<< fact(n);
     return 0;
 }
