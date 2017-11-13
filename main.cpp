@@ -8,6 +8,7 @@ it fact(int n)
     return (fact(n-1)*n);
 
 }
+// this is function main
 int main()
 {
     it n; cin>>n;
