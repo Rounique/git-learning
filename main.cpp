@@ -13,7 +13,7 @@ it fact(int n)
 int main()
 {
     //get n
-
+    //new cm
     it n; cin>>n;
     cout<< fact(n);
     return 0;
