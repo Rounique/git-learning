@@ -12,6 +12,7 @@ it fact(int n)
 // this is function main
 int main()
 {
+    //get input
     it n; cin>>n;
     cout<< fact(n);
     return 0;
